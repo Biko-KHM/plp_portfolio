@@ -1,4 +1,5 @@
-✨ Bikila Keneni's Portfolio
+   ✨ Bikila Keneni's Portfolio
+   
 Welcome to my sleek portfolio, built for the PLP Academy Portfolio Challenge (July 2025)! 🚀 Dive into my world of full-stack development at biko-khm.github.io/plp_portfolio/.  
 
 🌟 About
