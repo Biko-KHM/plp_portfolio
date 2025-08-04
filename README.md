@@ -1,39 +1,107 @@
-   ✨ Bikila Keneni's Portfolio
-   
-Welcome to my sleek portfolio, built for the PLP Academy Portfolio Challenge (July 2025)! 🚀 Dive into my world of full-stack development at biko-khm.github.io/plp_portfolio/.  
+# 🌟 Bikila Keneni's Portfolio
 
-🌟 About
-I'm Bikila Keneni Hailu, a Software Engineering student passionate about crafting clean, AI-powered web apps. With a vibrant design featuring animated gradients and smooth hover effects, this portfolio showcases my skills in HTML and CSS.  
-“Rivers cut through rock not because of its power, but because of its perseverance.”
+Welcome to my personal portfolio — a modern, responsive, and creatively designed website built for the **PLP Academy Portfolio Challenge (July 2025 Cohort)**. Explore the live version here:  
+🔗 **[biko-khm.github.io/plp_portfolio](https://biko-khm.github.io/plp_portfolio)**
 
-🛠️ What’s Inside
+---
 
-Skills: JavaScript, React, Node.js, Java, MySQL, PHP, and more, displayed in a lively grid.  
-Projects:  
-Planexa: AI-driven travel planner with React and Gemini AI.  
-Campus Feedback: Java-based feedback system with MySQL.  
-Teacher Evaluation: PHP-powered evaluation tool.
+## 👨‍💻 About Me
 
+Hi, I'm **Bikila Keneni Hailu**, a passionate Software Engineering student at Haramaya University. I specialize in **full-stack development** and have a deep interest in **AI integration**. I believe in consistent growth through hands-on building, and my work reflects a strong focus on clean code, user-friendly UI, and scalable systems.
 
-Education: BSc Software Engineering & BA Management (Haramaya University).  
-Contact: Connect via email, GitHub, LinkedIn, and more.
+> _“Rivers cut through rock not because of their power, but because of their perseverance.”_
 
-Explore all details and live links on the deployed site!  
+---
 
-🎨 Why It Rocks
+## 🎓 Education
 
-Creative Flair: Animated gradients, texture overlays, and interactive animations.  
-Responsive Design: Looks stunning on any device.  
-Clean Code: Modular CSS for clarity and maintainability.  
-Deployment: Live on GitHub Pages.
+- **BSc in Software Engineering**  
+  *Haramaya University, Ethiopia (Expected: 2027)*  
+  - Focus: Full-stack development, algorithms, and systems design.
 
+- **BA in Management** *(Concurrent Degree)*  
+  *Haramaya University, Ethiopia (Expected: 2026)*  
+  - Focus: Project management, leadership, and strategic thinking.
 
-🚀 Run It Locally
+---
 
-Clone the repo:  git clone https://github.com/Biko-KHM/plp_portfolio.git
+## 🛠️ Skills
 
+| Category       | Technologies                                               |
+| -------------- | ---------------------------------------------------------- |
+| **Frontend**   | HTML, CSS, JavaScript, React, Tailwind CSS                |
+| **Backend**    | Node.js, PHP, MySQL                                       |
+| **Programming**| Java                                                      |
+| **Tools**      | Git, GitHub, Agile, SRS Documentation                     |
 
-Open index.html in a browser and enjoy!
+> 💡 The portfolio uses hover cards and animated grid layouts to showcase these skills interactively.
 
+---
 
-Thanks for visiting! Let’s build something epic together. 💻
+## 📂 Featured Projects
+
+### 🌍 Planexa — AI Travel Planner  
+**Tech Stack:** React, Tailwind CSS, Node.js, Gemini AI  
+A smart travel planner offering AI-based trip suggestions based on budget, location, and group. Features Google Maps Autocomplete and responsive design.  
+🔗 [View on GitHub](#)
+
+---
+
+### 📊 Campus Feedback System  
+**Tech Stack:** Java (Swing & AWT), MySQL  
+An admin-student feedback application with real-time MySQL storage and authentication.  
+🔗 [View on GitHub](#)
+
+---
+
+### 📈 Teacher Evaluation System  
+**Tech Stack:** HTML, CSS, JavaScript, PHP  
+A simple web-based evaluation tool with PHP backend, student interface, and feedback history.  
+🔗 [View on GitHub](#)
+
+---
+
+## 📄 Resume
+
+- 🔍 [**View Online**](https://your-google-docs-resume-link)  
+- 📥 [**Download PDF**](https://your-resume-download-link)
+
+---
+
+## 💡 Interests
+
+- **Full-Stack Development** – Building responsive, modern apps with React & Node.js  
+- **AI & APIs** – Integrating intelligent behavior using tools like Gemini AI  
+- **Team Collaboration** – GitHub, Agile sprints, and project documentation  
+- **Tech Exploration** – Continuously learning to build what’s next
+
+---
+
+## 📬 Contact
+
+Want to connect or collaborate? Reach out!
+
+- ✉ **Email:** bikilakeneni32@gmail.com  
+- 🐙 **GitHub:** [@Biko-KHM](https://github.com/Biko-KHM)  
+- 🔗 **LinkedIn:** [Bikila Keneni](https://linkedin.com/in/yourprofile)  
+- 🐦 **Twitter:** [@bikila_keneni](https://twitter.com/bikila_keneni)  
+- 📘 **Facebook:** [Bikila Keneni](https://facebook.com/yourprofile)  
+- 🌍 **Location:** Ethiopia (Remote-Friendly)
+
+---
+
+## 🏗️ Development Highlights
+
+- 🎨 **Creative Design:** Animated gradient, hover effects, textured layout  
+- 📱 **Responsive Layout:** Built with CSS Grid and Flexbox for device adaptability  
+- 🧼 **Clean Code:** Modular, commented CSS and semantic HTML  
+- 🌐 **Deployed On:** [GitHub Pages](https://biko-khm.github.io/plp_portfolio)
+
+---
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/Biko-KHM/plp_portfolio.git
+cd plp_portfolio
+open index.html
