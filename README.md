@@ -9,19 +9,14 @@ Welcome to my personal portfolio — a modern, responsive, and creatively design
 
 Hi, I'm **Bikila Keneni Hailu**, a passionate Software Engineering student at Haramaya University. I specialize in **full-stack development** and have a deep interest in **AI integration**. I believe in consistent growth through hands-on building, and my work reflects a strong focus on clean code, user-friendly UI, and scalable systems.
 
-> _“Rivers cut through rock not because of their power, but because of their perseverance.”_
-
+> 
 ---
 
 ## 🎓 Education
 
 - **BSc in Software Engineering**  
   *Haramaya University, Ethiopia (Expected: 2027)*  
-  - Focus: Full-stack development, algorithms, and systems design.
-
-- **BA in Management** *(Concurrent Degree)*  
-  *Haramaya University, Ethiopia (Expected: 2026)*  
-  - Focus: Project management, leadership, and strategic thinking.
+  - Focus: Full-stack development, Machine Learning and algorithms.
 
 ---
 
@@ -31,7 +26,7 @@ Hi, I'm **Bikila Keneni Hailu**, a passionate Software Engineering student at Ha
 | -------------- | ---------------------------------------------------------- |
 | **Frontend**   | HTML, CSS, JavaScript, React, Tailwind CSS                |
 | **Backend**    | Node.js, PHP, MySQL                                       |
-| **Programming**| Java                                                      |
+| **Programming**| Javascript,Python,C++ and Java                                                     |
 | **Tools**      | Git, GitHub, Agile, SRS Documentation                     |
 
 > 💡 The portfolio uses hover cards and animated grid layouts to showcase these skills interactively.
